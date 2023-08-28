@@ -41,3 +41,13 @@ PPS:
 - [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 
 
+--- 
+# August 27, 2023 Github and .md Noob right here! 
+
+I am wrapping my head around all the infomation with the course. Its very detailed but very dense and not easy to follow. Its because Im pretty much a noob at it all. Except Rhino. I have used Rhino a long time ago so I reviewed all the intro videos as a refresher. Grasshopper on the other hand is new to me and not sure of its applications just yet. 
+
+I mean I sort of get it. I looked into it further. I read [Grasshopper 3D: A Modeling Software Redefining The Design Process](https://parametric-architecture.com/grasshopper-3d-a-modeling-software-redefining-the-design-process/) When I have time I will look into this as well. [Design for additive manufacturing (DfAM) for industrial design speaker series](https://www.ntop.com/resources/blog/design-for-additive-manufacturing-dfam-for-industrial-design-speaker-series/)
+Its applications are pretty cool and have really changed the face of architecture and industrial design. But my thought is which came first the chicken or the egg? Who designed it the software or the designer? 
+
+
+

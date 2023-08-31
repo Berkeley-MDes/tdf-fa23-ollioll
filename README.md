@@ -33,6 +33,8 @@ I have watched a ton of videos and downloaded a few plugins. I have reached a go
 <img width="500" alt="Final Form 1" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/IMG_1323%20copy.jpg"> <img width="500" alt="Final Form 2" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/IMG_1327%20copy.jpg"> 
 
 After some back and forth with TJ, he suggested a different action into creating the phone cutout on the form. It looks promising but I am unable to see the cutout. 
+
+
 <img width="500" alt="Final Form 1" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/IMG_1323%20copy.jpg"> <img width="500" alt="Final Form 2" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/IMG_1327%20copy.jpg"> 
 
 

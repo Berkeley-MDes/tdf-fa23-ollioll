@@ -28,7 +28,7 @@ I watched a few videos on the possibilities of using plugins in Grasshopper. I e
 
 **Reflection**
 
-I have watched a ton of videos and downloaded a few plugins. I have reached a good point in actually making a shape and having my phone fit into it. The organization of the file is a mess but I feel good about where I am. I feel like I understand grasshopper but still think solid modeling is easier. 
+I have watched a ton of videos and downloaded a few plugins. I started with weaverbird and mesh+ but the components of mesh+ did not register on my mac. So I had to think of a different way. I used the mesh forms from weaverbird and just used traditional tools to try to manipulate the form to fit my phone. I have reached a good point in actually making a shape and having my phone fit into it. The organization of the file is a mess but I feel good about where I am. I feel like I understand grasshopper but still think solid modeling is easier. 
 
 <img width="500" alt="Final Form 1" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/IMG_1323%20copy.jpg"> <img width="500" alt="Final Form 2" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/IMG_1327%20copy.jpg"> 
 

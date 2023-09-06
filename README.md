@@ -49,7 +49,7 @@ I am still trying to wrap my head around GH. Everytime I think I have it, someth
 There is an opportunity to use the tools of computational design for high performance gear for sports or training i.e. track running shoes, helmets, strapping,  etc. If only I can get a handle on relearning how to do rhino and getting a better idea on how GH works. Its not for the lack of trying. I did some initial research on it but so far I only found very circular articles but nothing direct -  [computational design for sports building](https://www.sciencedirect.com/science/article/pii/S1877705816307329/), [computational design for sports building](https://www.researchgate.net/publication/350194848_The_Design_Space_of_Wearables_for_Sports_and_Fitness_Practices) and [computational design for bio feedback in sports](https://www.hindawi.com/journals/mpe/2016/4829452/).
 
 **Reflection**
-The summary is that I know how I want to use the computational design but am not technically connecting the dots to make it work. 
+The summary is that I know how I want to use the computational design but am not technically connecting the dots to make it work. I did laser cut something. 
 
 
 

@@ -43,7 +43,7 @@ After some back and forth with TJ, he suggested a different action into creating
 
 **Summary**
 
-I am still trying to wrap my head around GH. Everytime I think I have it, something doesnt connect and I am back at sqaure 1. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. 
+I am still trying to wrap my head around GH. Every time I think I have it, something doesn't connect and I am back at square one. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. 
 
 So I watched more Grasshopper tutorials. 
 

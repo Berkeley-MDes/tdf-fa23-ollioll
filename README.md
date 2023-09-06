@@ -44,6 +44,14 @@ After some back and forth with TJ, he suggested a different action into creating
 **Summary**
 
 I am still trying to wrap my head around GH. Everytime I think I have it, something doesnt connect and I am back at sqaure 1. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. I watched more Grasshopper tutorials. 
+Playing with curves...
+<img width="200" alt="Curves" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4c.jp)"> <img width="200" alt="More Curves" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4a.jpg">
+
+More help from Tj...
+<img width="200" alt="TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-5e.PNG">
+
+Maybe one day, texture...
+<img width="200" alt="texture" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4b.jpg"> <img width="200" alt="more texture" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-5d.jpg">
 
 **Speculation**
 There is an opportunity to use the tools of computational design for high performance gear for sports or training i.e. track running shoes, helmets, strapping,  etc. If only I can get a handle on relearning how to do rhino and getting a better idea on how GH works. Its not for the lack of trying. I did some initial research on it but so far I only found very circular articles but nothing direct -  [computational design for sports building](https://www.sciencedirect.com/science/article/pii/S1877705816307329/), [computational design for sports building](https://www.researchgate.net/publication/350194848_The_Design_Space_of_Wearables_for_Sports_and_Fitness_Practices) and [computational design for bio feedback in sports](https://www.hindawi.com/journals/mpe/2016/4829452/).

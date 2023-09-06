@@ -37,6 +37,16 @@ After some back and forth with TJ, he suggested a different action into creating
 
 <img width="500" alt="Final Form 1" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/IMG_1333.JPG">
 
+--- 
+
+# Weekly Report 1 - August 27, 2023
+
+**Summary**
+
+I am still trying to wrap my head around GH. Everytime I think I have it, something doesnt connect and I am back at sqaure 1. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. 
+
+**Speculation**
+I watched more Grasshopper tutorials. There is an opportunity to use the tools of computational design for high performance gear for sports or training i.e. track running shoes, helmets, strapping,  etc. If only I can get a handle on relearning how to do rhino and getting a better idea on how GH works. Its not for the lack of trying. I did some initial research on it (page 1-2 googling) but so far I only found computational design for sports building [computational design for sports building]([https://parametric-architecture.com/grasshopper-3d-a-modeling-software-redefining-the-design-process](https://www.sciencedirect.com/science/article/pii/S1877705816307329)https://www.sciencedirect.com/science/article/pii/S1877705816307329/)and computational design for bio feedback in sports
 
 
 

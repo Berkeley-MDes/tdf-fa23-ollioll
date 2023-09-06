@@ -45,7 +45,8 @@ After some back and forth with TJ, he suggested a different action into creating
 
 I am still trying to wrap my head around GH. Everytime I think I have it, something doesnt connect and I am back at sqaure 1. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. 
 
-I watched more Grasshopper tutorials. 
+So I watched more Grasshopper tutorials. 
+
 Playing with curves...
 <img width="200" alt="Curves" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4c.jp)"> <img width="200" alt="More Curves" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4a.jpg">
 

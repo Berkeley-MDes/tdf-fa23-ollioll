@@ -39,7 +39,7 @@ After some back and forth with TJ, he suggested a different action into creating
 
 --- 
 
-# Weekly Report 1 - August 27, 2023
+# Weekly Report 2 - September 5, 2023
 
 **Summary**
 

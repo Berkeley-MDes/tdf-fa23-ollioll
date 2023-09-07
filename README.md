@@ -43,7 +43,9 @@ After some back and forth with TJ, he suggested a different action into creating
 
 **Summary**
 
-I am still trying to wrap my head around GH. Every time I think I have it, something doesn't connect and I am back at square one. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. 
+I am still trying to wrap my head around GH. Every time I think I have it, something doesn't connect and I am back at square one. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. I did laser cut something. 
+
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
 
 So I watched more Grasshopper tutorials. 
 
@@ -62,7 +64,7 @@ There is an opportunity to use the tools of computational design for high perfor
 
 **Reflection**
 
-The summary is that I know how I want to use the computational design but am not technically connecting the dots to make it work. I did laser cut something. 
+I know how I want to use the computational design but am not technically connecting the dots to make what I want out of it yet. So I modeled something simple in rhino and then used the same steps to create parameters in Grasshopper. I would like to take this further by adding more parameters or possibly adding texture. I used a bat as a representative of an opportunity to create design parameters for 
+technical performance gear. 
 
-
-
+<img width="500" alt="Rhino Bat" src="weekly-reports/Screen Shot 2023-09-06 at 10.59.06 PM.png"> <img width="500" alt="Grasshopper Bat" src="weekly-reports/Screen Shot 2023-09-06 at 10.56.12 PM.png">

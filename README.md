@@ -78,9 +78,9 @@ technical performance gear.
 I took a break from modeling this weekend. I used the time to figure out what I wanted to learn next in grasshopper and why. After doing something simple like the bat in grasshopper I decided to actually create something a little more complicated. I also learned more plugins like Kangaroo. 
 
 **Speculation**
-I decided not to add texture to the bat. I focused this week on, yes, watching more tutorials, but really on a design that is 1) more complex in shape and surface 2) create different parameters on and 3) play with texture. 
+I decided not to add texture to the bat. I focused this week on, yes, watching more tutorials, but really on a design that is 1) more complex in shape and surface 2) that I can create different parameters and 3) play with texture. 
 
-Researched market for parametric design on shoes and also tutorials and tricks. This blog post was pretty comprehensive on parametric design in shoes, manufacturing, and products on the market. It was inspiring on the possibilities of parametric design and the future of manufacturing. Possibly for small scale, custom, or sustainable manufacturing. 
+I did some market research for parametric design on shoes and also  looked up more tutorials and tips. This blog post was pretty comprehensive on parametric design in shoes, manufacturing, and products on the market. As an industrial designer in the outdoor, and sporting goods industry it was inspiring to understand the possibilities of parametric design and the future of manufacturing. Possibly for small scale, custom, or sustainable manufacturing. 
 
 https://parameterizing.wordpress.com/2017/11/02/parametric-design-and-footwear-industry/
 
@@ -106,7 +106,9 @@ sketches
 
 kangaroo tensile strength
 
-form/ 
+form 
+
+cage edit
 
 
 **Reflection**

@@ -1,5 +1,5 @@
 # Christine Marcelino's TDF GitHub Repository!
-Welcome to your my GitHub repository! 
+Welcome to my GitHub repository! 
 
 --- 
 
@@ -68,3 +68,48 @@ I know how I want to use the computational design but am not technically connect
 technical performance gear. 
 
 <img width="500" alt="Rhino Bat" src="weekly-reports/Screen Shot 2023-09-06 at 10.59.06 PM.png"> <img width="500" alt="Grasshopper Bat" src="weekly-reports/Screen Shot 2023-09-06 at 10.56.12 PM.png">
+
+--- 
+
+# Weekly Report 3 - September 13, 2023
+
+**Summary**
+
+I took a break from modeling this weekend. I used the time to figure out what I wanted to learn next in grasshopper and why. After doing something simple like the bat in grasshopper I decided to actually create something a little more complicated. I also learned more plugins like Kangaroo. 
+
+**Speculation**
+I decided not to add texture to the bat. I focused this week on, yes, watching more tutorials, but really on a design that is 1) more complex in shape and surface 2) create different parameters on and 3) play with texture. 
+
+Researched market for parametric design on shoes and also tutorials and tricks. This blog post was pretty comprehensive on parametric design in shoes, manufacturing, and products on the market. It was inspiring on the possibilities of parametric design and the future of manufacturing. Possibly for small scale, custom, or sustainable manufacturing. 
+
+https://parameterizing.wordpress.com/2017/11/02/parametric-design-and-footwear-industry/
+
+4D Design Manufacturing
+
+Addidas Shoe
+“Futurecraft 4D is a prototype and a statement of intent. We have used a one-of-its-kind combination of process and material in an entirely new way. Our 3D-printed midsole not only allows us to make a great running shoe, but also to use performance data to drive truly bespoke experiences, meeting the needs of any athlete.” via (parameterizing.wordpress.com)
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+New Balance was able to take it one step further by using a powder form of TPU called DuraForm TPU using selective laser sintering (SLS. They partnered with 3Dsystems for this project. via (parameterizing.wordpress.com)
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+Circular manufacturing
+Nike Sustainable shoe. Although there Im sure how 360 it is as there are still many parts to the shoe. 
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+I think is acheivable in many performance applicatios in the future and so I watched more Grasshopper tutorials so I can understand how it works. I used the shoe sole as the basis of my form. My goal was not to reinvent the shoe but understand the process of parametric design so I can be able to take it one step further in similar products. 
+
+sketches
+
+kangaroo tensile strength
+
+form/ 
+
+
+**Reflection**
+
+For this project I wanted to consider myself as an "Expert", since I knew rhino already. But by no means am I an expert at grasshopper and am only tapping the surface of its capabilities. My end result was not one idea or product but a series of studies in grasshopper. I did enjoy learning a new process and researching more about its possible applications for the future of product design in particular performance gear and sustainable manufacturing. Here is a video of my process up to this point. 
+

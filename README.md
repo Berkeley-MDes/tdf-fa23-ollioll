@@ -20,10 +20,11 @@ I did some market research for parametric design on shoes and also looked up mor
 
 Addidas Shoe
 “Futurecraft 4D is a prototype and a statement of intent. We have used a one-of-its-kind combination of process and material in an entirely new way. Our 3D-printed midsole not only allows us to make a great running shoe, but also to use performance data to drive truly bespoke experiences, meeting the needs of any athlete.” [(via parameterizing.wordpress.com)](https://parameterizing.wordpress.com/2017/11/02/parametric-design-and-footwear-industry/) 
+
+
 Here you can see the shoe in its totality, Analysis of pressure points, application of the data on a a parametric design of the sole. 
-<img width="200" alt="Addidas Futurecraft" src="weekly-reports/week3/screen-shot-2017-10-18-at-10-44-57.png">
-<img width="200" alt="Midsole1" src="weekly-reports/week3/61.gif">
-<img width="200" alt="Midsole" src="weekly-reports/week3/31.png">
+
+<img width="300" alt="Addidas Futurecraft" src="weekly-reports/week3/screen-shot-2017-10-18-at-10-44-57.png"><img width="300" alt="Midsole1" src="weekly-reports/week3/31.gif"><img width="300" alt="Midsole" src="weekly-reports/week3/61.png">
 
 
 New Balance was able to take it one step further by using a powder form of TPU called DuraForm TPU using selective laser sintering (SLS. They partnered with 3Dsystems for this project. via (parameterizing.wordpress.com)

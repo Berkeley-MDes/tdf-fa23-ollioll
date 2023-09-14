@@ -27,29 +27,31 @@ New Balance was able to take it one step further by using a powder form of TPU c
 
 [NEW BALANCE ZANTE GENERATE](https://www.newbalance.es/on/demandware.store/Sites-newbalance_eu-Site)
 
-<img width="300" alt="Midsole1" src="weekly-reports/week3/31.gif"><img width="300" alt="Midsole" src="weekly-reports/week3/61.png">
+<img width="500" alt="New Balance" src="weekly-reports/week3/31.png"> <img width="500" alt="New Balance2" src="weekly-reports/week3/61.gif">
 
 Circular manufacturing
 Many companies are redefining their design process to reflect sustainable practices. Nike has made an effort to put that practice of circular design into high concept products to test these ideas before bringing them to the market. With [Nike ISPA](https://www.dezeen.com/2022/04/29/nike-ispa-link-disassembly/) breaks down the components of a shoe to create a design that is glueless and adaptable. [Nike circular Design](https://www.nikecirculardesign.com/)
 
-<img width="300" alt="NIKE ISPA WHOLE" src="weekly-reports/week3/nike-ispa-link-trainers_dezeen_2364_col_0-1704x1136.jpg"><img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/Nike-ISPA-disassembly_dezeen_2364_col_8-1704x1176.jpg">
+<img width="300" alt="NIKE ISPA WHOLE" src="weekly-reports/week3/nike-ispa-link-trainers_dezeen_2364_col_0-1704x1136.jpg">
+<img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/Nike-ISPA-disassembly_dezeen_2364_col_8-1704x1176.jpg">
 
 There are so many improved performance and sustainable manufacturing applications to parametric design in sporting gear. I created some sketches and of course I watched more Grasshopper tutorials so I can understand how to really create a working grasshopper model. I used the shoe sole as the basis of my form. My goal was not to reinvent the shoe but understand the process of parametric design so I can be able to take it one step further in similar products. 
 
 Sketches: I drew out possible applications of an adaptable shoe sole for a variety of activities. Then I drew out possible processes to build out the sole in Rhino and Grasshopper based on some of the tutorials I watched. 
 
-<img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/IMG_1677.png">
-<img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/IMG_1678.png">
-<img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/IMG_1682.png">
+<img width="500" alt="Sketch2" src="weekly-reports/week3/IMG_1678.png"><img width="500" alt="Rock Climbing Shoe" src="weekly-reports/week3/IMG_1677.png"> <img width="300" alt="sketch3" src="weekly-reports/week3/IMG_1682.png">
 
 Tensile Strength: Playing with the Kangaroo plugin was interesting but complicated. I created the outline of a shoe using curves in Rhino. I then used Kangaroo to test play with the tensile strength. The curve was too complicated so the end model was too dense.
 
 
+<img width="300" alt="kangaroo1" src="weekly-reports/week3/IMG_1656 copy.jpg"> <img width="300" alt="kangaroo2" src="weekly-reports/week3/IMG_1662 copy.jpg">
 
-form 
 
-cage edit
+I found a tutorial that simplified the process of designing the shoe sole by using cage edit too in Rhino. I then used "rebuild" to make the surface even cleaner with less U and V points. This helped in creating a uniform pattern that I created in Grasshopper with the Lunchbox plugin. I finally got something to work yay! Well very much thanks to this tutorial. 
 
+<img width="300" alt="Lunchbox1" src="weekly-reports/week3/IMG_1689 copy.jpg"> <img width="300" alt="Lunchbox2" src="weekly-reports/week3/IMG_1690 copy.jpg"><img width="300" alt="Lunchbox3" src="weekly-reports/week3/IMG_1694 copy.jpg">
+
+<img width="500" alt="Lunchbox4" src="weekly-reports/week3/IMG_1695 copy.jpg"><img width="500" alt="Lunchbox5" src="weekly-reports/week3/IMG_1700 copy.jpg">
 
 **Reflection**
 

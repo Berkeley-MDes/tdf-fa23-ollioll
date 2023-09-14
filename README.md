@@ -30,16 +30,21 @@ New Balance was able to take it one step further by using a powder form of TPU c
 <img width="300" alt="Midsole1" src="weekly-reports/week3/31.gif"><img width="300" alt="Midsole" src="weekly-reports/week3/61.png">
 
 Circular manufacturing
-Many companies are redefining their design process to reflect sustainable practices. Nike has made an effort to put that practice of circular design into concept ideas.  Nike Sustainable shoe. Although there Im sure how 360 it is as there are still many parts to the shoe. 
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+Many companies are redefining their design process to reflect sustainable practices. Nike has made an effort to put that practice of circular design into high concept products to test these ideas before bringing them to the market. With [Nike ISPA](https://www.dezeen.com/2022/04/29/nike-ispa-link-disassembly/) breaks down the components of a shoe to create a design that is glueless and adaptable. [Nike circular Design](https://www.nikecirculardesign.com/)
 
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+<img width="300" alt="NIKE ISPA WHOLE" src="weekly-reports/week3/nike-ispa-link-trainers_dezeen_2364_col_0-1704x1136.jpg"><img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/Nike-ISPA-disassembly_dezeen_2364_col_8-1704x1176.jpg">
 
-I think is acheivable in many performance applicatios in the future and so I watched more Grasshopper tutorials so I can understand how it works. I used the shoe sole as the basis of my form. My goal was not to reinvent the shoe but understand the process of parametric design so I can be able to take it one step further in similar products. 
+There are so many improved performance and sustainable manufacturing applications to parametric design in sporting gear. I created some sketches and of course I watched more Grasshopper tutorials so I can understand how to really create a working grasshopper model. I used the shoe sole as the basis of my form. My goal was not to reinvent the shoe but understand the process of parametric design so I can be able to take it one step further in similar products. 
 
-sketches
+Sketches: I drew out possible applications of an adaptable shoe sole for a variety of activities. Then I drew out possible processes to build out the sole in Rhino and Grasshopper based on some of the tutorials I watched. 
 
-kangaroo tensile strength - interesting but complicated.
+<img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/IMG_1677.png">
+<img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/IMG_1678.png">
+<img width="300" alt="Nike ISPA BREAK" src="weekly-reports/week3/IMG_1682.png">
+
+Tensile Strength: Playing with the Kangaroo plugin was interesting but complicated. I created the outline of a shoe using curves in Rhino. I then used Kangaroo to test play with the tensile strength. The curve was too complicated so the end model was too dense.
+
+
 
 form 
 

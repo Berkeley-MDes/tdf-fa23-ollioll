@@ -3,6 +3,86 @@ Welcome to my GitHub repository!
 
 --- 
 
+# Weekly Report 3 - September 13, 2023 
+(P.S. I reversed the order of the reports so that the latest was first. Too lazy to scroll down to review edits.)
+
+**Summary**
+
+I took a break from modeling this weekend. I used the time to figure out what I wanted to learn next in grasshopper and why. After doing something simple like the bat in grasshopper I decided to actually create something a little more complicated. I also learned more plugins like Kangaroo and Lunchbox to play with tensile strength and texture. For this project, I created the sole of the shoe in Rhino and built a pattern from it with Lunchbox. 
+
+**Speculation**
+
+I decided not to add texture to the bat that I worked on perviously.  I focused this week on, yes, watching more tutorials, but really on a design that is 1) more complex in shape and surface 2) that I can play with different parameters and 3) try a bit of texture. 
+
+I did some market research for parametric design on shoes and also looked up more tutorials and tips. This [blog post](https://parameterizing.wordpress.com/2017/11/02/parametric-design-and-footwear-industry/) was a great intro on the latest in parametric design in shoes, manufacturing, and products on the market. As an industrial designer in the outdoor and sporting goods industry it was inspiring to see the possibilities of parametric design and the future of manufacturing. Possibly for small scale, custom, or sustainable manufacturing. 
+
+4D Design Manufacturing
+
+Addidas Shoe
+“Futurecraft 4D is a prototype and a statement of intent. We have used a one-of-its-kind combination of process and material in an entirely new way. Our 3D-printed midsole not only allows us to make a great running shoe, but also to use performance data to drive truly bespoke experiences, meeting the needs of any athlete.” [(via parameterizing.wordpress.com)](https://parameterizing.wordpress.com/2017/11/02/parametric-design-and-footwear-industry/) 
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+New Balance was able to take it one step further by using a powder form of TPU called DuraForm TPU using selective laser sintering (SLS. They partnered with 3Dsystems for this project. via (parameterizing.wordpress.com)
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+Circular manufacturing
+Nike Sustainable shoe. Although there Im sure how 360 it is as there are still many parts to the shoe. 
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+I think is acheivable in many performance applicatios in the future and so I watched more Grasshopper tutorials so I can understand how it works. I used the shoe sole as the basis of my form. My goal was not to reinvent the shoe but understand the process of parametric design so I can be able to take it one step further in similar products. 
+
+sketches
+
+kangaroo tensile strength - interesting but complicated.
+
+form 
+
+cage edit
+
+
+**Reflection**
+
+For this project I would like to consider myself as an "Expert" because I explored beyond the cell phone prompt. But by no means am I really an expert at grasshopper and am only tapping the surface of its capabilities. My end result was not one idea or product but a series of studies in grasshopper. I did enjoy learning a new process and researching more about its possible applications for the future of product design in particular performance gear and sustainable manufacturing. I hope to explore more in terms of parametric design in soft goods product development. 
+Here is a video of my process up to this point. 
+
+Things I need to work on: 1) Soft goods exploration with rhino and grasshopper 2) organizing my github uploads 3) I like Github, setting up a repository for my work here at MDes.
+
+--- 
+
+# Weekly Report 2 - September 5, 2023
+
+**Summary**
+
+I am still trying to wrap my head around GH. Every time I think I have it, something doesn't connect and I am back at square one. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. I did laser cut something. 
+
+<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+
+So I watched more Grasshopper tutorials. 
+
+Playing with curves...
+<img width="200" alt="Curves" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4c.jp)"> <img width="200" alt="More Curves" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4a.jpg">
+
+More help from Tj...
+<img width="200" alt="TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-5e.PNG">
+
+Maybe one day, texture...
+<img width="200" alt="texture" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4b.jpg"> <img width="200" alt="more texture" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-5d.jpg">
+
+**Speculation**
+
+There is an opportunity to use the tools of computational design for high performance gear for sports or training i.e. track running shoes, helmets, strapping,  etc. If only I can get a handle on relearning how to do rhino and getting a better idea on how GH works. Its not for the lack of trying. I did some initial research on it but so far I only found very circular articles but nothing direct -  [computational design for sports building](https://www.sciencedirect.com/science/article/pii/S1877705816307329/), [The Design Space of Wearables for Sports and Fitness Practices](https://www.researchgate.net/publication/350194848_The_Design_Space_of_Wearables_for_Sports_and_Fitness_Practices) and [computational design for bio feedback in sports](https://www.hindawi.com/journals/mpe/2016/4829452/).
+
+**Reflection**
+
+I know how I want to use the computational design but am not technically connecting the dots to make what I want out of it yet. So I modeled something simple in rhino and then used the same steps to create parameters in Grasshopper. I would like to take this further by adding more parameters or possibly adding texture. I used a bat as a representative of an opportunity to create design parameters for 
+technical performance gear. 
+
+<img width="500" alt="Rhino Bat" src="weekly-reports/Screen Shot 2023-09-06 at 10.59.06 PM.png"> <img width="500" alt="Grasshopper Bat" src="weekly-reports/Screen Shot 2023-09-06 at 10.56.12 PM.png">
+
+
 # Weekly Report 1 - August 27, 2023
 
 **Summary**
@@ -37,81 +117,4 @@ After some back and forth with TJ, he suggested a different action into creating
 
 <img width="500" alt="Final Form 1" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/IMG_1333.JPG">
 
---- 
-
-# Weekly Report 2 - September 5, 2023
-
-**Summary**
-
-I am still trying to wrap my head around GH. Every time I think I have it, something doesn't connect and I am back at square one. Ive been a solidworks, fusion 360 user for years and I have to relearn rhino and in a way break it down to smaller bits in GH. I did laser cut something. 
-
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
-
-So I watched more Grasshopper tutorials. 
-
-Playing with curves...
-<img width="200" alt="Curves" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4c.jp)"> <img width="200" alt="More Curves" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4a.jpg">
-
-More help from Tj...
-<img width="200" alt="TJ" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-5e.PNG">
-
-Maybe one day, texture...
-<img width="200" alt="texture" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-4b.jpg"> <img width="200" alt="more texture" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/9-5d.jpg">
-
-**Speculation**
-
-There is an opportunity to use the tools of computational design for high performance gear for sports or training i.e. track running shoes, helmets, strapping,  etc. If only I can get a handle on relearning how to do rhino and getting a better idea on how GH works. Its not for the lack of trying. I did some initial research on it but so far I only found very circular articles but nothing direct -  [computational design for sports building](https://www.sciencedirect.com/science/article/pii/S1877705816307329/), [The Design Space of Wearables for Sports and Fitness Practices](https://www.researchgate.net/publication/350194848_The_Design_Space_of_Wearables_for_Sports_and_Fitness_Practices) and [computational design for bio feedback in sports](https://www.hindawi.com/journals/mpe/2016/4829452/).
-
-**Reflection**
-
-I know how I want to use the computational design but am not technically connecting the dots to make what I want out of it yet. So I modeled something simple in rhino and then used the same steps to create parameters in Grasshopper. I would like to take this further by adding more parameters or possibly adding texture. I used a bat as a representative of an opportunity to create design parameters for 
-technical performance gear. 
-
-<img width="500" alt="Rhino Bat" src="weekly-reports/Screen Shot 2023-09-06 at 10.59.06 PM.png"> <img width="500" alt="Grasshopper Bat" src="weekly-reports/Screen Shot 2023-09-06 at 10.56.12 PM.png">
-
---- 
-
-# Weekly Report 3 - September 13, 2023
-
-**Summary**
-
-I took a break from modeling this weekend. I used the time to figure out what I wanted to learn next in grasshopper and why. After doing something simple like the bat in grasshopper I decided to actually create something a little more complicated. I also learned more plugins like Kangaroo. 
-
-**Speculation**
-I decided not to add texture to the bat. I focused this week on, yes, watching more tutorials, but really on a design that is 1) more complex in shape and surface 2) that I can create different parameters and 3) play with texture. 
-
-I did some market research for parametric design on shoes and also  looked up more tutorials and tips. This blog post was pretty comprehensive on parametric design in shoes, manufacturing, and products on the market. As an industrial designer in the outdoor, and sporting goods industry it was inspiring to understand the possibilities of parametric design and the future of manufacturing. Possibly for small scale, custom, or sustainable manufacturing. 
-
-https://parameterizing.wordpress.com/2017/11/02/parametric-design-and-footwear-industry/
-
-4D Design Manufacturing
-
-Addidas Shoe
-“Futurecraft 4D is a prototype and a statement of intent. We have used a one-of-its-kind combination of process and material in an entirely new way. Our 3D-printed midsole not only allows us to make a great running shoe, but also to use performance data to drive truly bespoke experiences, meeting the needs of any athlete.” via (parameterizing.wordpress.com)
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
-
-New Balance was able to take it one step further by using a powder form of TPU called DuraForm TPU using selective laser sintering (SLS. They partnered with 3Dsystems for this project. via (parameterizing.wordpress.com)
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
-
-Circular manufacturing
-Nike Sustainable shoe. Although there Im sure how 360 it is as there are still many parts to the shoe. 
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
-
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
-
-I think is acheivable in many performance applicatios in the future and so I watched more Grasshopper tutorials so I can understand how it works. I used the shoe sole as the basis of my form. My goal was not to reinvent the shoe but understand the process of parametric design so I can be able to take it one step further in similar products. 
-
-sketches
-
-kangaroo tensile strength
-
-form 
-
-cage edit
-
-
-**Reflection**
-
-For this project I wanted to consider myself as an "Expert", since I knew rhino already. But by no means am I an expert at grasshopper and am only tapping the surface of its capabilities. My end result was not one idea or product but a series of studies in grasshopper. I did enjoy learning a new process and researching more about its possible applications for the future of product design in particular performance gear and sustainable manufacturing. Here is a video of my process up to this point. 
 

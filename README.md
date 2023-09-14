@@ -21,18 +21,16 @@ I did some market research for parametric design on shoes and also looked up mor
 Addidas Shoe
 “Futurecraft 4D is a prototype and a statement of intent. We have used a one-of-its-kind combination of process and material in an entirely new way. Our 3D-printed midsole not only allows us to make a great running shoe, but also to use performance data to drive truly bespoke experiences, meeting the needs of any athlete.” [(via parameterizing.wordpress.com)](https://parameterizing.wordpress.com/2017/11/02/parametric-design-and-footwear-industry/) 
 
+<img width="500" alt="Addidas Futurecraft" src="weekly-reports/week3/screen-shot-2017-10-18-at-10-44-57.png">
 
-Here you can see the shoe in its totality, Analysis of pressure points, application of the data on a a parametric design of the sole. 
+New Balance was able to take it one step further by using a powder form of TPU called DuraForm TPU using selective laser sintering (SLS. They partnered with 3Dsystems for this project.Here you can see the analysis of pressure points, application of the data on a a parametric design of the sole. [(via parameterizing.wordpress.com)](https://parameterizing.wordpress.com/2017/11/02/parametric-design-and-footwear-industry/) 
 
-<img width="300" alt="Addidas Futurecraft" src="weekly-reports/week3/screen-shot-2017-10-18-at-10-44-57.png"><img width="300" alt="Midsole1" src="weekly-reports/week3/31.gif"><img width="300" alt="Midsole" src="weekly-reports/week3/61.png">
+[NEW BALANCE ZANTE GENERATE](https://www.newbalance.es/on/demandware.store/Sites-newbalance_eu-Site)
 
-
-New Balance was able to take it one step further by using a powder form of TPU called DuraForm TPU using selective laser sintering (SLS. They partnered with 3Dsystems for this project. via (parameterizing.wordpress.com)
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
-<img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
+<img width="300" alt="Midsole1" src="weekly-reports/week3/31.gif"><img width="300" alt="Midsole" src="weekly-reports/week3/61.png">
 
 Circular manufacturing
-Nike Sustainable shoe. Although there Im sure how 360 it is as there are still many parts to the shoe. 
+Many companies are redefining their design process to reflect sustainable practices. Nike has made an effort to put that practice of circular design into concept ideas.  Nike Sustainable shoe. Although there Im sure how 360 it is as there are still many parts to the shoe. 
 <img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">
 
 <img width="200" alt="Laser cut" src="weekly-reports/IMG_1455 copy.jpg">

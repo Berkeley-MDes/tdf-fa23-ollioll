@@ -3,15 +3,17 @@ Welcome to my GitHub repository!
 
 --- 
 
-# Weekly Report 3 - September 20, 2023 
+# Weekly Report 4 - September 20, 2023 
 
 **Summary**
+
 Boom! Project 1 done. I did all my weekly reflections which I didn't know we had to do, but it was great to reflect as a whole about this project and my experience. I hate to say it, but TDF my be one of my favorite classes so far. Im excited about the next project. I love stuff the gifts of potential we got this week. 
 
 **Speculation**
+
 I was so impresseds with my progress in this course and the conenctions I have been making to my own design interests that I decided to make a another repository to track my progress MDES. Unfortunately I am not able to make it work. (PS shm... please help!) I also learned how to make a folder. I am excited about the potential of the next project as well. Ive been thinking about what to make. I am thinking about playful items or things that move. i saw a few projects on instructables that were pretty cool. [(iot projects)](https://www.instructables.com/Spark-Projects/)
 
-<img width="500" alt="Human Sensing Device" src="tdf-fa23-ollioll/weekly-reports/week4/FN1HJ58I4E6CQOE.jpg">
+<img width="500" alt="Human Sensing Device" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week4/FN1HJ58I4E6CQOE.jpg">
 
 **Reflection**
 Finally a chill week in TDF. I loved receiving a box of toys and think about its potential. 

@@ -6,6 +6,18 @@ Welcome to my GitHub repository!
 # Weekly Report 4 - September 20, 2023 
 
 **Summary**
+This week I did not do much with my Photon device except the tutorials.
+
+<img width="200" alt="Tutorial" src="tdf-fa23-ollioll/weekly-reports/week 5/Screen Shot 2023-09-28 at 6.29.27 PM.png">
+
+**Speculation**
+**Reflection**
+
+--- 
+
+# Weekly Report 4 - September 20, 2023 
+
+**Summary**
 
 Boom! Project 1 done. I did all my weekly reflections which I didn't know we had to do, but it was great to reflect as a whole about this project and my experience. I hate to say it, but TDF my be one of my favorite classes so far. Im excited about the next project. I love stuff the gifts of potential we got this week. 
 

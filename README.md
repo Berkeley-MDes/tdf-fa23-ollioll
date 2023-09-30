@@ -13,10 +13,11 @@ This week I did not do much with my Photon device except the tutorials.
 
 **Speculation**
 This anagram is pretty funny
+
 <img width="500" alt="Anagram" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week 5/Screen Shot 2023-09-28 at 6.29.59 PM.png">
 
 **Reflection**
-I'm not see the connections of whats possible yet. At least just from doing the tutorials
+I'm not seeing the connections of whats possible yet. At least just from doing the tutorials
 
 --- 
 

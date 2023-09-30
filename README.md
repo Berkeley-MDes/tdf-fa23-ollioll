@@ -3,12 +3,12 @@ Welcome to my GitHub repository!
 
 --- 
 
-# Weekly Report 4 - September 20, 2023 
+# Weekly Report 5 - September 26, 2023 
 
 **Summary**
 This week I did not do much with my Photon device except the tutorials.
 
-<img width="200" alt="Tutorial" src="tdf-fa23-ollioll/weekly-reports/week 5/Screen Shot 2023-09-28 at 6.29.27 PM.png">
+<img width="200" alt="Tutorial" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/edit/main/README.md">
 
 **Speculation**
 **Reflection**

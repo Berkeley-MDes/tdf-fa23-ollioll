@@ -8,10 +8,15 @@ Welcome to my GitHub repository!
 **Summary**
 This week I did not do much with my Photon device except the tutorials.
 
-<img width="200" alt="Tutorial" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/edit/main/README.md">
+<img width="200" alt="Tutorial" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%205/Screen%20Shot%202023-09-28%20at%206.29.27%20PM.png">
+<img width="200" alt="Tutorial" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%205/Screen%20Shot%202023-09-28%20at%206.29.37%20PM.png">
 
 **Speculation**
+This anagram is pretty funny
+<img width="500" alt="Anagram" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week 5/Screen Shot 2023-09-28 at 6.29.59 PM.png">
+
 **Reflection**
+I'm not see the connections of whats possible yet. At least just from doing the tutorials
 
 --- 
 

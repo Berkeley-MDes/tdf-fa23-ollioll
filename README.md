@@ -3,6 +3,19 @@ Welcome to my GitHub repository!
 
 --- 
 
+# Weekly Report - October 5, 2023 
+
+**Summary**
+This week we formed groups and generated ideas for Project 2. Our group focused on the task of cleaning, specifically cleaning counters. We did a brainstorm on how we can create the design. Then we create a user scenario and list of actions the robot needed to produce. When the group presented the idea, they got the feeddback that the idea was cool but we didnt have time to really accomplish object sensing, moving, and cleaning. So the team pivoted to create "Ghostly." An interactive 'hot/cold' game. 
+
+**Speculation**
+We brainstormed a few ideas like an arm picking up items off the counter. Also a cobweb cleaning spider. But abondened the idea for its difficulty. I came up with the idea of Wipey. An robot that looks like a dish towel at first glance but it moves slowly pusing items out of the way as it cleans the counter. I found some researc h while doing my zine on soft robotics. There are some interesting research on biomimicry to mimic movements of sea creatures  moving on sea floor. There are also some helpful tutorials on instructables on how to accomplish the design and programming of the machine. 
+
+**Reflection**
+Upon discussion, "Wipey" would be difficult. So we just made the sensing action 'hot/cold' and made it into a game. We are still working on the details of the design. 
+
+--- 
+
 # Weekly Report 5 - September 26, 2023 
 
 **Summary**

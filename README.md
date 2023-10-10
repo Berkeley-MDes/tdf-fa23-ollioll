@@ -8,8 +8,17 @@ Welcome to my GitHub repository!
 **Summary**
 This week we formed groups and generated ideas for Project 2. Our group focused on the task of cleaning, specifically cleaning counters. We did a brainstorm on how we can create the design. Then we create a user scenario and list of actions the robot needed to produce. When the group presented the idea, they got the feeddback that the idea was cool but we didnt have time to really accomplish object sensing, moving, and cleaning. So the team pivoted to create "Ghostly." An interactive 'hot/cold' game. 
 
+<img width="400" alt="brainstorm" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%206/IMG_1992%20copy.jpg">
+
 **Speculation**
 We brainstormed a few ideas like an arm picking up items off the counter. Also a cobweb cleaning spider. But abondened the idea for its difficulty. I came up with the idea of Wipey. An robot that looks like a dish towel at first glance but it moves slowly pusing items out of the way as it cleans the counter. I found some researc h while doing my zine on soft robotics. There are some interesting research on biomimicry to mimic movements of sea creatures  moving on sea floor. There are also some helpful tutorials on instructables on how to accomplish the design and programming of the machine. 
+
+<img width="400" alt="Wipey" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%206/IMG_2056%202%20copy.jpg">
+
+[Soft Robotics: Examples, Research and Applications](https://robotics24.net/blog/soft-robotics-examples-research-and-applications/)
+
+[Soft Robotics - Instructables](https://www.instructables.com/Soft-Robotics/) 
+
 
 **Reflection**
 Upon discussion, "Wipey" would be difficult. So we just made the sensing action 'hot/cold' and made it into a game. We are still working on the details of the design. 

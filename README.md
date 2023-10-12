@@ -3,6 +3,23 @@ Welcome to my GitHub repository!
 
 --- 
 
+# Weekly Report - October 12, 2023 
+
+**Summary**
+This week we refined the idea with our ghost and hunter game. We started thinking about the interactions, materials, and actual build. 
+
+<img width="400" alt="Ghostly" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%206/IMG_1992%20copy.jpg">
+
+**Speculation**
+We are not starting from scratch but reaching out to the teaching team and also online sources like instructables or docs.idew.org to have a starting point on the code and build. I found an interesting build on [Instructables](https://www.instructables.com/Iota-Omni-HSR-Robot-Rover-MAKE-Course/)  that can be adapted for our ghost. Figuring out the interactions and refining them is key to making sure we can fit all the pieces together and what works or doesn't work. We made progress on the code. Ankur figured out the 'hot/cold' feature. 
+
+<img width="400" alt="Ghostly Drawing" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%206/IMG_2056%202%20copy.jpg">
+<img width="400" alt="Ghostly Instructable" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%206/IMG_2056%202%20copy.jpg">
+
+
+**Reflection**
+Its been interesting to be very new to building electronics but have the understanding of an industrial designer on how its built. We have a good team where some of us are more technical, some more big picture, and one of us can actually make and build.Next steps is to figure out how to put the pieces together in order to make a mockup
+
 # Weekly Report - October 5, 2023 
 
 **Summary**

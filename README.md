@@ -11,13 +11,12 @@ This week we refined the idea with our ghost and hunter game. We started thinkin
 <img width="400" alt="Ghostly" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%207/Screen%20Shot%202023-10-12%20at%2011.01.24%20AM.png">
 
 **Speculation**
-We are not starting from scratch but reaching out to the teaching team and also online sources like instructables or [docs.idew.org](https://docs.idew.org/internet-of-things-project/references-for-wiring-and-coding/continuous-rotation-servo-motor) to have a starting point on the code and build. I found an interesting build on [Instructables](https://www.instructables.com/Iota-Omni-HSR-Robot-Rover-MAKE-Course/) that can be adapted for our ghost. Figuring out the interactions and refining them is key to making sure we can fit all the pieces together and what works or doesn't work. We made progress on the code. Ankur figured out the 'hot/cold' feature. 
+We are not starting from scratch but reaching out to the teaching team and also online sources like instructables or [docs.idew.org](https://docs.idew.org/internet-of-things-project/references-for-wiring-and-coding/continuous-rotation-servo-motor) to have a starting point on the code and build. I found an interesting build on [Instructables](https://www.instructables.com/Iota-Omni-HSR-Robot-Rover-MAKE-Course/) that can be adapted for our ghost. Figuring out the interactions and refining them is key to making finding out what works or doesn't work. We made progress on the code. Ankur figured out the 'hot/cold' feature. 
 
-<img width="400" alt="Ghostly Drawing" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%207/IMG_2375%20copy.jpg">
-<img width="400" alt="Ghostly Instructable" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%207/Screen%20Shot%202023-10-12%20at%2010.59.26%20AM.png">
+<img width="400" alt="Ghostly Drawing" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%207/IMG_2375%20copy.jpg">     <img width="400" alt="Ghostly Instructable" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%207/Screen%20Shot%202023-10-12%20at%2010.59.26%20AM.png">
 
 **Reflection**
-Its been interesting to be very new to building electronics but have the understanding of an industrial designer on how its built. We have a good team where some of us are more technical, some more big picture, and one of us can actually make and build.Next steps is to figure out how to put the pieces together in order to make a mockup
+Its been interesting to be very new to building electronics but have the understanding of an industrial designer on how its built. We have a good team. Some of us are more technical, some more big picture, and one of us can actually make and build. Next steps is to figure out how to put the pieces together in order to make a mockup.
 
 --- 
 

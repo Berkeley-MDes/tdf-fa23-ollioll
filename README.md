@@ -1,5 +1,27 @@
 # Christine Marcelino's TDF GitHub Repository!
 Welcome to my GitHub repository! 
+--- 
+
+# Weekly Report 7 - October 19, 2023 
+
+**Summary**
+Woohoo! We finished our project, now called, Ghostbuddies. I am really proud of our team who rallied to make this happen. We took on challenges and pivoted when we needed to and proud of the outcome. 
+
+<img width="400" alt="Ghostly" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%207/Screen%20Shot%202023-10-12%20at%2011.01.24%20AM.png">
+
+**Speculation**
+
+This week started off slowly. Aylish and Ankur had the code pretty much figured out light sensor for the ghost. We had to figure out how they would talk to each other. We pivoted from ditance sensing because  it would not be possible without more hardware or extra external processes, and math. We also wanted to avoid math. This was only after talking to a few classmates and design specialists. We decided that the light sensor was enough for our concept to still work. 
+
+Since they had the code down I decided to focus on the build. I used the instructables files to 3D print the chassis. I ordered some omni directional wheels but it would not arrive in time. So I decided to print my own. What a waste of two days! The quality of the print was ok but too rough for the functionality of the wheels. They didn't turn and took to long to build. So I pivoted and found some lego wheels to try. The design of chassis would not work without the omni directional wheels, so I pivoted again and laser printed a forward directional ghost design platform. We then tested the wheels to see which was best and used the maker space to really hack this thing together. 
+
+Although, Ive been pretty much hands off with the code, I decided we needed to move forward with the Hunter code and their communication. Thank goodness TJ put together a couple of tutorials on how to connect the OLED and the beginnings of the publisher subscriber setup. I soldered the OLED to Sparkfun board. (I love soldering BTW!) I then created some code with Reina's help to initiate a time stamp on the screen. Ankur and I created a team for the 2 photons on his account. After he got the wheels to work with the light sensor. He took the two home to finesse the code to talk to each other. Again thanks to tutorials, our classmates, and teaching team we figured out how to make it work. 
+
+On the last day, we really pulled our resources together to finish the build. Which was actually very tricky because of the wheels and the electronics setup. We got it to work and in the evening created our video. Aylish had already put together a script so that was helpful. We then asynchronisely added our voices and process videos. 
+
+**Reflection**
+I am glad I am a maker at heart because we had to pivot many times because of the resources, timing, and overall knowledge we had in putting an electronics kit together. I am thankful I had a really proactive and engaging team. 
+
 
 --- 
 

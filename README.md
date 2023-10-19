@@ -6,8 +6,6 @@ Welcome to my GitHub repository!
 **Summary**
 Woohoo! We finished our project, now called, Ghostbuddies. I am really proud of our team who rallied to make this happen. We took on challenges and pivoted when we needed to and proud of the outcome. 
 
-<img width="400" alt="Ghostly" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%207/Screen%20Shot%202023-10-12%20at%2011.01.24%20AM.png">
-
 **Speculation**
 
 This week started off slowly. Aylish and Ankur had the code pretty much figured out light sensor for the ghost. We had to figure out how they would talk to each other. We pivoted from ditance sensing because  it would not be possible without more hardware or extra external processes, and math. We also wanted to avoid math. This was only after talking to a few classmates and design specialists. We decided that the light sensor was enough for our concept to still work. 

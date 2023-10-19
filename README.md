@@ -1,4 +1,3 @@
-![IMG_2381 copy](https://github.com/Berkeley-MDes/tdf-fa23-ollioll/assets/143040709/1dcaa0fc-1194-4c30-82db-008fa970a57c)# Christine Marcelino's TDF GitHub Repository!
 Welcome to my GitHub repository! 
 --- 
 
@@ -13,9 +12,11 @@ Woohoo! We finished our project, now called, Ghostbuddies. I am really proud of 
 
 This week started off slowly. Aylish and Ankur had the code pretty much figured out light sensor for the ghost. We had to figure out how they would talk to each other. We pivoted from ditance sensing because  it would not be possible without more hardware or extra external processes, and math. We also wanted to avoid math. This was only after talking to a few classmates and design specialists. We decided that the light sensor was enough for our concept to still work. 
 
-!img width="400" [Paper Wheels](https://github.com/Berkeley-MDes/tdf-fa23-ollioll/assets/143040709/bdc8af51-e50e-4141-b21e-1fbe7a3c8fe0)
+<img width="400" alt="Paper Wheels" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week8/IMG_2381%20copy.jpg">
 
 Since they had the code down I decided to focus on the build. I used the instructables files to 3D print the chassis. I ordered some omni directional wheels but it would not arrive in time. So I decided to print my own. What a waste of two days! The quality of the print was ok but too rough for the functionality of the wheels. They didn't turn and took to long to build. So I pivoted and found some lego wheels to try. The design of chassis would not work without the omni directional wheels, so I pivoted again and laser printed a forward directional ghost design platform. We then tested the wheels to see which was best and used the maker space to really hack this thing together. 
+
+<img width="400" alt="#3D Pringt" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week8/IMG_2474%20copy.jpg"> <img width="400" alt="Paper Wheels" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week8/IMG_2381%20copy.jpg"> <img width="400" alt="3d Wheels" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/IMG_2476%20copy.jpg"> <img width="400" alt="Lego Wheels" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week8/IMG_2478%20copy.jpg"> <img width="400" alt="Lego Wheels" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week8/IMG_2490%20copy.jpg">
 
 Although, Ive been pretty much hands off with the code, I decided we needed to move forward with the Hunter code and their communication. Thank goodness TJ put together a couple of tutorials on how to connect the OLED and the beginnings of the publisher subscriber setup. I soldered the OLED to Sparkfun board. (I love soldering BTW!) I then created some code with Reina's help to initiate a time stamp on the screen. Ankur and I created a team for the 2 photons on his account. After he got the wheels to work with the light sensor. He took the two home to finesse the code to talk to each other. Again thanks to tutorials, our classmates, and teaching team we figured out how to make it work. 
 

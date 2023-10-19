@@ -1,4 +1,4 @@
-# Christine Marcelino's TDF GitHub Repository!
+![IMG_2381 copy](https://github.com/Berkeley-MDes/tdf-fa23-ollioll/assets/143040709/1dcaa0fc-1194-4c30-82db-008fa970a57c)# Christine Marcelino's TDF GitHub Repository!
 Welcome to my GitHub repository! 
 --- 
 
@@ -12,6 +12,8 @@ Woohoo! We finished our project, now called, Ghostbuddies. I am really proud of 
 **Speculation**
 
 This week started off slowly. Aylish and Ankur had the code pretty much figured out light sensor for the ghost. We had to figure out how they would talk to each other. We pivoted from ditance sensing because  it would not be possible without more hardware or extra external processes, and math. We also wanted to avoid math. This was only after talking to a few classmates and design specialists. We decided that the light sensor was enough for our concept to still work. 
+
+!img width="400" [Paper Wheels](https://github.com/Berkeley-MDes/tdf-fa23-ollioll/assets/143040709/bdc8af51-e50e-4141-b21e-1fbe7a3c8fe0)
 
 Since they had the code down I decided to focus on the build. I used the instructables files to 3D print the chassis. I ordered some omni directional wheels but it would not arrive in time. So I decided to print my own. What a waste of two days! The quality of the print was ok but too rough for the functionality of the wheels. They didn't turn and took to long to build. So I pivoted and found some lego wheels to try. The design of chassis would not work without the omni directional wheels, so I pivoted again and laser printed a forward directional ghost design platform. We then tested the wheels to see which was best and used the maker space to really hack this thing together. 
 

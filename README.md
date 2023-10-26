@@ -1,7 +1,25 @@
 Welcome to my GitHub repository! 
 --- 
 
-# Weekly Report 7 - October 19, 2023 
+**Summary**
+
+Ok here we go. AI in a week. Let's do this! 
+
+**Speculation**
+
+The lecture from Peter Binggesser was suprisingful very engaging and clear. He's a great lecturer. The lecture makes AI seem very accessible, which I originally thought was out of my reach in understanding. Whats interesting is the conversational aspect of AI "design" and how the data is packaged and taught to be interpreted. I am now interested in learning more about data. Data in itself seems objective but when it is packaged in such a way like AI, it becomes subjective, because of how the data is recalled and what data is included and not. 
+
+In any case, I am very excited about making an chatbox of me on my portfolio site. I am thinking of questions someone might want to ask about my work or who I am. I am a long way. I can barely ask it to say who I am. I imagine a robot similar to the one I met at the Japanese museum of emerging science and technology Miraikan in Tokyo. [https://www.youtube.com/watch?v=6Mrpcb-82kg](https://www.youtube.com/watch?v=6Mrpcb-82kg)
+
+
+
+**Reflection**
+
+My mind is blown. I originally had some biasses on AI but now I am interested in learning more. 
+
+--- 
+
+# Weekly Report 8 - October 26, 2023 
 
 **Summary**
 Woohoo! We finished our project, now called, Ghostbuddies. I am really proud of our team who rallied to make this happen. We took on challenges and pivoted when we needed to and proud of the outcome. 
@@ -10,7 +28,7 @@ Woohoo! We finished our project, now called, Ghostbuddies. I am really proud of 
 
 This week started off slowly. Aylish and Ankur had the code pretty much figured out light sensor for the ghost. We had to figure out how they would talk to each other. We pivoted from ditance sensing because  it would not be possible without more hardware or extra external processes, and math. We also wanted to avoid math. This was only after talking to a few classmates and design specialists. We decided that the light sensor was enough for our concept to still work. 
 
-<img width="400" alt="Paper Wheels" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week8/IMG_2381%20copy.jpg">
+<img width="500" alt="AI" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week8/IMG_2474%20copy.jpg"> 
 
 Since they had the code down I decided to focus on the build. I used the instructables files to 3D print the chassis. I ordered some omni directional wheels but it would not arrive in time. So I decided to print my own. What a waste of two days! The quality of the print was ok but too rough for the functionality of the wheels. They didn't turn and took to long to build. So I pivoted and found some lego wheels to try. The design of chassis would not work without the omni directional wheels, so I pivoted again and laser printed a forward directional ghost design platform. We then tested the wheels to see which was best and used the maker space to really hack this thing together. 
 

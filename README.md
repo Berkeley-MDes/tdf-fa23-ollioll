@@ -10,7 +10,12 @@ Speaking of Bias... CHatGPT is not objective as I've learned this week. I create
 
 **Speculation**
 
-I enjoyed working on this project. It wasn't as difficult but still mind blowing. I had issues with the knowledge base at first so I put all my information in the instructions which worked out fine. I made several bots one for my resume, one for TDF, and one with both combined. I asked my partner to challenge the resume bot, and he felt like it was a good setup and representation of me. The TDF bot was a bit long winded. I then created a prompt to make it shorter. In the bot with both sets of information, I asked it very challenging questions. For example - What electives should I take? What should I do research in? Where should I shoft my career to? It was somewhat successful, not very clear in its answer, but on point thematically. I would say my AI bot is successful. I would like to find a way to add it to my portfolio site.
+I enjoyed working on this project. It wasn't as difficult but still mind blowing. I had issues with the knowledge base at first so I put all my information in the instructions which worked out fine. I made several bots one for my resume, one for TDF, and one with both combined. I asked my partner to challenge the resume bot, and he felt like it was a good setup and representation of me. The TDF bot was a bit long winded. I then created a prompt to make it shorter. In the bot with both sets of information, I asked it very challenging questions. For example - What electives should I take? What should I do research in? Where should I shift my career to? It was somewhat successful, not very clear in its answer, but on point thematically. I would say my AI bot is successful. I would like to find a way to add it to my portfolio site. This week I also learned how to create a movie in Adobe Premiere Pro. Its not the easiest platform to use but it worked. 
+
+https://www.youtube.com/watch?v=RN8pyDaBn-M
+
+
+<img width="400" alt="AI draft 1" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%209/IMG_2789%20copy.jpg"> <img width="400" alt="AI draft 2" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%209/IMG_2785%20copy.jpg"> <img width="400" alt="A Premiere Pro" src="https://github.com/Berkeley-MDes/tdf-fa23-ollioll/blob/main/weekly-reports/week%209/IMG_2860%20copy.jpg"> 
 
 **Reflection**
 

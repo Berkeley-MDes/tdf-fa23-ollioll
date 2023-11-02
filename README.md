@@ -1,6 +1,24 @@
 Welcome to my GitHub repository! 
 --- 
 
+# Weekly Report 9 - Nov 2, 2023 
+
+**Summary**
+
+Speaking of Bias... CHatGPT is not objective as I've learned this week. I created bots with my resume and my TDF weekly reports. Both demos gave exactly the information I fed it. 
+
+**Speculation**
+
+I enjoyed working on this project. It wasn't as difficult but still mind blowing. I had issues with the knowledge base at first so I put all my information in the instructions which worked out fine. I made several bots one for my resume, one for TDF, and one with both combined. I asked my partner to challenge the resume bot, and he felt like it was a good setup and representation of me. The TDF bot was a bit long winded. I then created a prompt to make it shorter. In the bot with both sets of information, I asked it very challenging questions. For example - What electives should I take? What should I do research in? Where should I shoft my career to? It was somewhat successful, not very clear in its answer, but on point thematically. I would say my AI bot is successful. I would like to find a way to add it to my portfolio site.
+
+**Reflection**
+
+It makes me question what kind of information is fed in the AI that we take for granted in our daily lives. There should be a warning before using that information may not be correct, like on medical websites. We are presented with information and imagery and take it as is. Many don't know there is alot of structure and strategy behind that digital structure, sometimes not to our benefit. 
+
+--- 
+
+# Weekly Report 8 - October 26, 2023 
+
 **Summary**
 
 Ok here we go. AI in a week. Let's do this! 

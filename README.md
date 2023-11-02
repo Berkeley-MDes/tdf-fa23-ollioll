@@ -6,7 +6,7 @@ Welcome to my GitHub repository!
 
 **Summary**
 
-Speaking of Bias... CHatGPT is not objective as I've learned this week. I created bots with my resume and my TDF weekly reports. Both demos gave exactly the information I fed it. 
+Speaking of Bias... CHatGPT is not objective as I've learned this week. I created bots with my resume and my TDF weekly reports. Both demos gave exactly the information I fed it. With this project, I enjoyed the experience of working with AI, adding my own work made me feel good about myself. If ever I feel lost in my direction, Ill talk to myself online. 
 
 **Speculation**
 
@@ -15,6 +15,7 @@ I enjoyed working on this project. It wasn't as difficult but still mind blowing
 **Reflection**
 
 It makes me question what kind of information is fed in the AI that we take for granted in our daily lives. There should be a warning before using that information may not be correct, like on medical websites. We are presented with information and imagery and take it as is. Many don't know there is alot of structure and strategy behind that digital structure, sometimes not to our benefit. 
+
 
 --- 
 
